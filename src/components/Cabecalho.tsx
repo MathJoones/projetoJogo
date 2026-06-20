@@ -1,8 +1,8 @@
 export default function Cabecalho() {
   return (
-    <header>
+    <header className="cabecalho">
       <h1>Casino Royal</h1>
-      <p>Bem-vindo ao melhor cassino online</p>
+      <p>Blackjack — 21</p>
     </header>
   );
 }

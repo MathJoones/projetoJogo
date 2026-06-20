@@ -1,7 +1,7 @@
 export default function Rodape() {
   return (
-    <footer>
-      <p>2026 Casino Royal — Jogue com responsabilidade</p>
+    <footer className="rodape">
+      <p>© 2026 Casino Royal — Jogo educacional</p>
     </footer>
   );
 }
